@@ -1,17 +1,17 @@
 package:
   dependencies:
-  - arrays
-  - console
-  - effect
-  - foldable-traversable
-  - integers
-  - maybe
-  - numbers
-  - partial
-  - prelude
-  - test-unit
+    - arrays
+    - console
+    - effect
+    - foldable-traversable
+    - integers
+    - maybe
+    - numbers
+    - partial
+    - prelude
+    - test-unit
   name: chapter4
 workspace:
-  extra_packages: {}
-  package_set:
+  extraPackages: {}
+  packageSet:
     url: https://raw.githubusercontent.com/purescript/package-sets/psc-0.15.2-20220615/packages.json

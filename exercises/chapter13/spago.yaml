@@ -1,15 +1,15 @@
 package:
   dependencies:
-  - arrays
-  - console
-  - effect
-  - foldable-traversable
-  - functions
-  - lists
-  - prelude
-  - quickcheck
+    - arrays
+    - console
+    - effect
+    - foldable-traversable
+    - functions
+    - lists
+    - prelude
+    - quickcheck
   name: chapter13
 workspace:
-  extra_packages: {}
-  package_set:
+  extraPackages: {}
+  packageSet:
     url: https://raw.githubusercontent.com/purescript/package-sets/psc-0.15.2-20220615/packages.json
