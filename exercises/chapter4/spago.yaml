@@ -10,7 +10,7 @@ package:
   - partial
   - prelude
   - test-unit
-  name: my-project
+  name: chapter4
 workspace:
   extra_packages: {}
   package_set:

@@ -8,7 +8,7 @@ package:
   - lists
   - prelude
   - quickcheck
-  name: my-project
+  name: chapter13
 workspace:
   extra_packages: {}
   package_set:

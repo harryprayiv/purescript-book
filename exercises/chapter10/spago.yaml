@@ -27,7 +27,7 @@ package:
   - validation
   - web-dom
   - web-html
-  name: my-project
+  name: chapter10
 workspace:
   extra_packages: {}
   package_set:

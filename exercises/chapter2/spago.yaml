@@ -8,7 +8,7 @@ package:
   - numbers
   - prelude
   - test-unit
-  name: my-project
+  name: chapter2
 workspace:
   extra_packages: {}
   package_set:

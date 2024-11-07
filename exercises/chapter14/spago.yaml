@@ -9,7 +9,7 @@ package:
   - prelude
   - strings
   - transformers
-  name: my-project
+  name: chapter14
 workspace:
   extra_packages: {}
   package_set:

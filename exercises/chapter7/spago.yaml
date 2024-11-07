@@ -14,7 +14,7 @@ package:
   - transformers
   - tuples
   - validation
-  name: my-project
+  name: chapter7
 workspace:
   extra_packages: {}
   package_set:

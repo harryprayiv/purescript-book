@@ -15,7 +15,7 @@ package:
   - web-dom
   - web-events
   - web-html
-  name: my-project
+  name: chapter12
 workspace:
   extra_packages: {}
   package_set:

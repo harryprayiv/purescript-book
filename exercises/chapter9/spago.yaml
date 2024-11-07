@@ -20,7 +20,7 @@ package:
   - prelude
   - strings
   - test-unit
-  name: my-project
+  name: chapter9
 workspace:
   extra_packages: {}
   package_set:

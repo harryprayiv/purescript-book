@@ -7,7 +7,7 @@ package:
   - maybe
   - prelude
   - test-unit
-  name: my-project
+  name: chapter3
 workspace:
   extra_packages: {}
   package_set:

@@ -11,7 +11,7 @@ package:
   - strings
   - test-unit
   - tuples
-  name: my-project
+  name: chapter5
 workspace:
   extra_packages: {}
   package_set:
