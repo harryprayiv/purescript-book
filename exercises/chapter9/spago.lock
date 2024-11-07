@@ -1,7 +1,7 @@
 {
   "workspace": {
     "packages": {
-      "my-project": {
+      "chapter9": {
         "path": "./",
         "core": {
           "dependencies": [
